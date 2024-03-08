@@ -1,7 +1,8 @@
-# Water mark recognition of Isaac Newton's Manuscript
-Sure, here's a more structured version of your README.md file:
+
 
 # Project Title
+
+#Water mark recognition of Isaac Newton's Manuscript
 
 ## Installation
 
